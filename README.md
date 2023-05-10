@@ -7,7 +7,7 @@ the Key feature is you can save the edited image in the form of jpg directly to 
 ## Gallery
 |Home Screen|Edited Screen|
 |-------|-------|
-|<img src="![image](https://github.com/pythonparth/FreeCanvas/assets/92641821/68660f52-7c3f-4fc3-a4c4-a4791fab1032)" width="500" height="300" /> | <img src="![image](https://github.com/pythonparth/FreeCanvas/assets/92641821/ebe2fffb-fa30-4481-b475-ffdbff6b1ee8)" width="500" height="300" />
+|<img src="C:\Users\parth\OneDrive\Pictures\Screenshots\Screenshot 2023-05-09 201741.png" width="500" height="300" /> | <img src="![image](https://github.com/pythonparth/FreeCanvas/assets/92641821/ebe2fffb-fa30-4481-b475-ffdbff6b1ee8)" width="500" height="300" />
 
 ## Build The Code
 1. Clone the repository https://github.com/pythonparth/FreeCanvas
